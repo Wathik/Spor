@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Team.h
 //  Spor
 //
 //  Created by Wathik Almayali on 7/5/14.
@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface Team : UITableViewController
+#define TeamName @"Team Name"
 
 @end
